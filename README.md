@@ -4,3 +4,4 @@ Establish a new directory, populate it with script files, initiate an empty repo
 ![vcstask3](https://github.com/user-attachments/assets/dd0bc2cb-4e45-44be-81d6-39457e6a7151)
 ![vcstask4](https://github.com/user-attachments/assets/d6aa835f-6191-4363-9dcb-d1dd7f3a33c9)
 ![vcstask5](https://github.com/user-attachments/assets/6a91c587-8b61-4827-9fb2-6ba088b996ed)
+![vcstask6](https://github.com/user-attachments/assets/e5d658b1-033d-4d86-9f3f-d13468de7d4d)
